@@ -1,0 +1,10 @@
+tensorflow
+streamlit
+pandas
+pillow
+matplotlib
+tqdm
+numpy
+transformers
+torch
+torchvision

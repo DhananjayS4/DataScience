@@ -1,0 +1,29 @@
+# Virtual Environments
+venv/
+venv_tf/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Model Weights (Keep the source code, but avoid uploading GBs of weights)
+*.weights.h5
+*.h5
+checkpoint/
+
+# Temporary files
+temp_image.jpg
+vocab.json
+
+# Local Data
+data/
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
+.agent/
+.agents/
